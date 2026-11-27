@@ -36,6 +36,9 @@ I also serve as a **Google Product Expert** in the official **Google Business Pr
   <a href="https://medium.com/@mauro_freitas/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="https://www.behance.net/agenciaprisma">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
   <a href="https://linktr.ee/maurofreitas">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
   </a>
@@ -66,10 +69,10 @@ I also serve as a **Google Product Expert** in the official **Google Business Pr
 
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="./assets/antigravity.svg" alt="Antigravity" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-0EA5E9?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Manus-111827?style=for-the-badge&logo=probot&logoColor=white" alt="Manus" />
+  <img src="./assets/manus.svg" alt="Manus" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>

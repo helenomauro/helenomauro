@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" role="img" aria-label="MANUS">
+  <rect width="92" height="28" fill="#1F2937"/>
+  <g transform="translate(10,6)" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="8" cy="8" r="6"/>
+    <path d="M5.5 10V6L8 8.5L10.5 6V10"/>
+  </g>
+  <text x="57" y="18" fill="#FFFFFF" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">MANUS</text>
+</svg>
