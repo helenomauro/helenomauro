@@ -2,7 +2,7 @@
 
 I'm **Mauro Freitas**, a **Computer Scientist** (UNIFOR-MG) and **Digital Marketing Specialist** with **20+ years of experience** working at the intersection of technology, data analytics, and business growth. Throughout my career, I've moved across design, web development, systems analysis, entrepreneurship, and digital strategy, building a practical view of how technology and data generate real revenue.
 
-Currently, I'm **CEO & Strategist at Prisma Marketing Digital** and creator of the **[Prisma Method](https://mentoria.agenciaprisma.net.br/)**, a structured methodology for local businesses (*Structure → Attract → Scale*) applied across Brazil and abroad. My focus is helping businesses turn digital marketing into a consistent client acquisition channel through strategy, data, and automation.
+Currently, I'm **CEO & Strategist at Prisma Marketing Digital** and creator of the <a target="_blank" rel="noopener noreferrer" href="https://mentoria.agenciaprisma.net.br/" target="_blank" rel="noopener noreferrer"><strong>Prisma Method</strong></a>, a structured methodology for local businesses (*Structure → Attract → Scale*) applied across Brazil and abroad. My focus is helping businesses turn digital marketing into a consistent client acquisition channel through strategy, data, and automation.
 
 I also serve as a **Google Product Expert** in the official **Google Business Profile (GBP)**, **Google Maps**, and **Google Ads** communities, and my background includes innovation and startup acceleration ecosystems such as **SEED-MG** (Belo Horizonte/MG) and **Nexus** (São José dos Campos/SP).
 
@@ -21,25 +21,25 @@ I also serve as a **Google Product Expert** in the official **Google Business Pr
 <br />
 
 <div align="center">
-  <a href="https://www.instagram.com/maurofreitas.mkt">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/maurofreitas.mkt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/maurofreitas.mkt/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/maurofreitas.mkt/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/maurofreitas/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/maurofreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Mauro.Freitas">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@Mauro.Freitas">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://medium.com/@mauro_freitas/">
+  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@mauro_freitas/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.behance.net/agenciaprisma">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.behance.net/agenciaprisma">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-  <a href="https://linktr.ee/maurofreitas">
+  <a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/maurofreitas">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
   </a>
 </div>
