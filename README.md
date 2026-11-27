@@ -2,7 +2,7 @@
 
 I'm **Mauro Freitas**, a **Computer Scientist** and **Digital Marketing Specialist** with **20+ years of experience** working at the intersection of technology, data analytics, and business growth. Throughout my career, I've moved across design, web development, systems analysis, entrepreneurship, and digital strategy, building a practical view of how technology and data generate real revenue.
 
-Currently, I'm **CEO & Strategist at Prisma Marketing Digital** and creator of the <a target="_blank" rel="noopener noreferrer" href="https://mentoria.agenciaprisma.net.br/" target="_blank" rel="noopener noreferrer"><strong>Prisma Method</strong></a>, a structured methodology for local businesses (*Structure → Attract → Scale*) applied across Brazil and abroad. My focus is helping businesses turn digital marketing into a consistent client acquisition channel through strategy, data, and automation.
+Currently, I'm **CEO & Strategist at Prisma Marketing Digital** and creator of the <a target="_blank" rel="noopener noreferrer" href="https://mentoria.agenciaprisma.net.br/" target="_blank" rel="noopener noreferrer"><strong>Prisma</strong></a>, a structured methodology for local businesses (*Structure → Attract → Scale*) applied across Brazil and abroad. My focus is helping businesses turn digital marketing into a consistent client acquisition channel through strategy, data, and automation.
 
 I also serve as a **Google Product Expert** in the official **Google Business Profile (GBP)**, **Google Maps**, and **Google Ads** communities, and my background includes innovation and startup acceleration ecosystems such as **SEED-MG** (Belo Horizonte/MG) and **Nexus** (São José dos Campos/SP).
 
