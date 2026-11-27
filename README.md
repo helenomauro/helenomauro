@@ -1,5 +1,3 @@
-<h1 align="center">Hello World</h1>
-
 Hi 👋, I'm **Mauro**! A Computer Scientist and Digital Marketing Specialist from Brazil.
 
 * 🎓 Graduated in **Computer Science** with **20+ years of experience** bridging technology, data analytics, and business growth.
