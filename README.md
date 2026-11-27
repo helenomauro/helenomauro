@@ -52,7 +52,7 @@ I also serve as a **Google Product Expert** in the official **Google Business Pr
 ### Marketing, Data & CRM
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Google_Business_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
+  <img src="https://img.shields.io/badge/Google_Business-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
