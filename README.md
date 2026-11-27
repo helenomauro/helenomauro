@@ -43,5 +43,5 @@ Hi 👋, I'm **Mauro**! A Computer Scientist and Digital Marketing Specialist fr
 <br />
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Cyberpunk City" width="100%" />
+  <img src="./assets/neuromancer.gif" alt="Neuromancer" width="100%" />
 </div>
