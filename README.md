@@ -14,7 +14,7 @@ I also serve as a **Google Product Expert** in the official **Google Business Pr
     <li><strong>Google Analytics Certified</strong> — Google Digital Academy (Skillshop) & Digital Analytics Fundamentals.</li>
     <li><strong>Data-Driven Analyst</strong> — Reportei Certification.</li>
     <li><strong>AI & SEO Workshops</strong> — Optimizing Google Business Profile with AI (Tera), SEO & Machine Learning (EBAC).</li>
-    <li><strong>Startup & Innovation Programs</strong> — SEED-MG (Belo Horizonte) & Nexus Innovation Hub (São José dos Campos/SP).</li>
+    <li><strong>Startup & Innovation Programs</strong> — SEED-MG (Belo Horizonte/MG) & Nexus Innovation Hub (São José dos Campos/SP).</li>
   </ul>
 </details>
 
